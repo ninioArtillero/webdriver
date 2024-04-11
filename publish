@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# COMENT TEST
+
 if [ -z "$ECHNIDA_TOKEN" ]
 then
 	>&2 echo "$0: error: ECHNIDA_TOKEN not set"
