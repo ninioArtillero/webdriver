@@ -12,3 +12,5 @@ they just have slightly different presentational “skinning”.
 
 Bugs can be filed against the [W3C bug tracker](https://www.w3.org/Bugs/Public/enter_bug.cgi?comment=&blocked=20860&short_desc=%5BWebDriver%20Spec%5D%3A%20&product=Browser%20Test%2FTools%20WG&component=WebDriver),
 and pull requests should patch `webdriver-spec.html`.
+
+TEST CHANGES
